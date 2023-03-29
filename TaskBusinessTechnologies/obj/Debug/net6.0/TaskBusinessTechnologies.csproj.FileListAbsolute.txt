@@ -1,0 +1,15 @@
+C:\Users\ilyas\source\repos\TaskBusinessTechnologies\TaskBusinessTechnologies\obj\Debug\net6.0\TaskBusinessTechnologies.csproj.AssemblyReference.cache
+C:\Users\ilyas\source\repos\TaskBusinessTechnologies\TaskBusinessTechnologies\obj\Debug\net6.0\TaskBusinessTechnologies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilyas\source\repos\TaskBusinessTechnologies\TaskBusinessTechnologies\obj\Debug\net6.0\TaskBusinessTechnologies.AssemblyInfoInputs.cache
+C:\Users\ilyas\source\repos\TaskBusinessTechnologies\TaskBusinessTechnologies\obj\Debug\net6.0\TaskBusinessTechnologies.AssemblyInfo.cs
+C:\Users\ilyas\source\repos\TaskBusinessTechnologies\TaskBusinessTechnologies\obj\Debug\net6.0\TaskBusinessTechnologies.csproj.CoreCompileInputs.cache
+C:\Users\ilyas\source\repos\TaskBusinessTechnologies\TaskBusinessTechnologies\bin\Debug\net6.0\TaskBusinessTechnologies.exe
+C:\Users\ilyas\source\repos\TaskBusinessTechnologies\TaskBusinessTechnologies\bin\Debug\net6.0\TaskBusinessTechnologies.deps.json
+C:\Users\ilyas\source\repos\TaskBusinessTechnologies\TaskBusinessTechnologies\bin\Debug\net6.0\TaskBusinessTechnologies.runtimeconfig.json
+C:\Users\ilyas\source\repos\TaskBusinessTechnologies\TaskBusinessTechnologies\bin\Debug\net6.0\TaskBusinessTechnologies.dll
+C:\Users\ilyas\source\repos\TaskBusinessTechnologies\TaskBusinessTechnologies\bin\Debug\net6.0\TaskBusinessTechnologies.pdb
+C:\Users\ilyas\source\repos\TaskBusinessTechnologies\TaskBusinessTechnologies\obj\Debug\net6.0\TaskBusinessTechnologies.dll
+C:\Users\ilyas\source\repos\TaskBusinessTechnologies\TaskBusinessTechnologies\obj\Debug\net6.0\refint\TaskBusinessTechnologies.dll
+C:\Users\ilyas\source\repos\TaskBusinessTechnologies\TaskBusinessTechnologies\obj\Debug\net6.0\TaskBusinessTechnologies.pdb
+C:\Users\ilyas\source\repos\TaskBusinessTechnologies\TaskBusinessTechnologies\obj\Debug\net6.0\TaskBusinessTechnologies.genruntimeconfig.cache
+C:\Users\ilyas\source\repos\TaskBusinessTechnologies\TaskBusinessTechnologies\obj\Debug\net6.0\ref\TaskBusinessTechnologies.dll
